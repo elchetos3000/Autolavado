@@ -23,10 +23,7 @@ El objetivo principal de este sistema es proporcionar una solución integral par
 ## ✨ Características del Programa
 
 ### 🧼 Gestión de Servicios
-- Registro y categorización de diferentes tipos de lavado y servicios adicionales
-- Asignación de precios y tiempos estimados para cada servicio
-- Control de disponibilidad y promociones especiales
-
+- Creacion, edicion y eliminacion de servicios ofrecidos por el programa
 ### 📦 Control de Inventario
 - Seguimiento de productos de limpieza y materiales
 - Alertas de stock bajo y necesidades de reabastecimiento
